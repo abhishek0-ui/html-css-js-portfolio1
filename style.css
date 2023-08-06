@@ -5,10 +5,12 @@
 * {
   margin: 0;
   padding: 0;
+  
 }
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: rgba(128, 228, 228, 0.836);
 }
 
 html {
@@ -52,7 +54,7 @@ a {
 }
 
 a:hover {
-  color: grey;
+  color: rgb(255, 0, 0);
   text-decoration: underline;
   text-underline-offset: 1rem;
   text-decoration-color: rgb(181, 181, 181);
